@@ -1,10 +1,27 @@
 div.wrapper{
     padding: auto;
     margin: auto;
-    width: 600px;
+    width: 800px;
     background-color: aquamarine;
 }
 
 section.nav{
     height: 50px;
+    background-color: #7d8088;
+    text-align: center;
 }
+
+a.nav__link{
+    margin: auto;
+    padding: 16px 17px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+section.media{
+    background-color: rgb(52, 52, 54);
+    height: 400px;
+}
+
