@@ -1,0 +1,15 @@
+div.wrapper{
+    padding: auto;
+    margin: auto;
+    width: 600px;
+    background-color: aquamarine;
+}
+
+section.nav{
+    height: 50px;
+}
+a.nav__link{
+    width: 70px;
+    border: 3px blue;
+    text-align: center;
+}
